@@ -1,1 +1,2 @@
-# snacksj
+# Sj snack 
+its a game 
